@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/React-Proj.iml" filepath="$PROJECT_DIR$/.idea/React-Proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-app/restful-app.iml" filepath="$PROJECT_DIR$/restful-app/restful-app.iml" />
     </modules>
   </component>
 </project>
