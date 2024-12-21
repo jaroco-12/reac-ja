@@ -17,5 +17,8 @@
 }
 
 .items {
-  display: flex;
+  border: 5px solid black;
+  margin: 8px;
+  padding: 3px;
+  width: 15rem;
 }
