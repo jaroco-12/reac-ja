@@ -1,4 +1,4 @@
-package com.web.restful_app;
+package com.web.restful_app.entity;
 
 import jakarta.persistence.*;
 
@@ -21,6 +21,8 @@ public class Products {
 
     @Column(name = "category")
     private String category;
+
+
 
     public Integer getID() {
         return ID;
@@ -61,4 +63,5 @@ public class Products {
     public void setCategory(String category) {
         this.category = category;
     }
+
 }
